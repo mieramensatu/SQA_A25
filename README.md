@@ -12,3 +12,39 @@ Matakuliah tentang Internal Audit dan IT Audit Series, akan mempelajari tentang 
 
  # KELOMPOK SQA
 Kelompok 1
+- Dany
+- M. Rifky
+- Gading
+
+Kelompok 2
+- Waskitho
+- Difta
+- Wisnu
+
+Kelompok 3
+- Nuril
+- Wafid Adzka
+- Ukasyah
+
+Kelompok 4
+- Fathya
+- Salwa
+- Fachriza
+- Sindy
+
+Kelompok 5
+- Dewi
+- Balqis
+- Hudza
+- AYALA
+
+Kelompok 6
+- Farhan
+- Audy
+- Nayaka
+- Zidan
+
+Kelompok 7
+- Ayuni
+- Fathir
+- Rafli
