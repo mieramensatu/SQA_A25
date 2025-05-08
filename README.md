@@ -51,7 +51,7 @@ Kelompok 7
 
 
 # Urutan Presentasi
-1. kel. 6
+1. kel. 6 done
 2. Kel. 2
 3. Kel. 1
 4. kel. 4
