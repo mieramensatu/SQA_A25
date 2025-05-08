@@ -50,11 +50,18 @@ Kelompok 7
 - Rafli
 
 
-# Urutan Presentasi
+# Urutan Presentasi Trello pertemuan sebelum ATS
 1. kel. 6 done
-2. Kel. 2
-3. Kel. 1
-4. kel. 4
-5. kel. 3
-6. kel. 7
-7. kel. 5
+2. Kel. 2 done
+3. Kel. 1 done
+4. kel. 4 done
+5. kel. 3 done
+6. kel. 7 done
+7. kel. 5 done
+
+Tidak hadir:
+M. Dany
+Sindy
+Wafid Adzka
+Ayuni
+
