@@ -60,8 +60,8 @@ Kelompok 7
 7. kel. 5 done
 
 Tidak hadir:
-M. Dany
-Sindy
-Wafid Adzka
-Ayuni
+- M. Dany
+- Sindy
+- Wafid Adzka
+- Ayuni
 
