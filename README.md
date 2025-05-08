@@ -48,3 +48,13 @@ Kelompok 7
 - Ayuni
 - Fathir
 - Rafli
+
+
+# Urutan Presentasi
+1. kel. 6
+2. Kel. 2
+3. Kel. 1
+4. kel. 4
+5. kel. 3
+6. kel. 7
+7. kel. 5
