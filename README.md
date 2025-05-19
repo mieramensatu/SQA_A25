@@ -29,8 +29,8 @@ Kelompok 3
 Kelompok 4
 - Fathya
 - Salwa
-- Fachriza
-- Sindy
+- Fachriza - Present 19/5/25 - Prodi
+- Sindy - Present 19/5/25 - Prodi
 
 Kelompok 5
 - Dewi
@@ -45,7 +45,7 @@ Kelompok 6
 - Zidan
 
 Kelompok 7
-- Ayuni
+- Ayuni - Present 19/5/25 - Prodi
 - Fathir
 - Rafli
 
