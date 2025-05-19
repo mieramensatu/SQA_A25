@@ -61,7 +61,5 @@ Kelompok 7
 
 Tidak hadir:
 - M. Dany
-- Sindy
 - Wafid Adzka
-- Ayuni
 
